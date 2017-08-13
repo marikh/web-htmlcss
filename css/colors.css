@@ -1,0 +1,47 @@
+.all-actions-bottom-border-color{
+    border-bottom-color: #cecece
+}
+
+.electronics-bottom-border-color{
+    border-bottom-color: #fbbb12
+}
+
+.fashion-bottom-border-color{
+    border-bottom-color: #b31e8d
+}
+
+.home-bottom-border-color{
+    border-bottom-color: #2aadad    
+}
+
+.books-bottom-border-color{
+    border-bottom-color: #8e59b6
+}
+
+.children-bottom-border-color{    
+    border-bottom-color: #e32f65
+}
+
+.misc-bottom-border-color{    
+    border-bottom-color: #e87b21
+}
+
+
+.menu-item-electronics{
+    border-top-color: #fbbb12;
+}
+.menu-item-fashion{
+    border-top-color: #b31e8d;
+}
+.menu-item-home{
+    border-top-color: #2aadad;
+}
+.menu-item-books{
+    border-top-color: #8e59b6;
+}
+.menu-item-children{
+    border-top-color: #e32f65;
+}
+.menu-item-misc{
+    border-top-color: #e87b21;
+}
